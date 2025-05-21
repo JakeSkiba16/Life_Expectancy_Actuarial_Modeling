@@ -46,6 +46,12 @@ This project explores trends in life expectancy and mortality rates across age, 
   - Women → higher annuity cost, lower insurance premium
   - Groups with higher life expectancy → more expensive annuities
 
+ ## Dashboard/Annuity Pricing Screenshots of Excel file
+![image](https://github.com/user-attachments/assets/83b4fc25-51e2-4068-8fac-864ae56d0f7c)
+![image](https://github.com/user-attachments/assets/b26fbce4-0027-4f47-af94-67466907de5b)
+![image](https://github.com/user-attachments/assets/a226c758-620c-4e1c-a89a-3aaee9ade236)
+
+
 
 
 ## Future Work
